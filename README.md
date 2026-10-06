@@ -145,4 +145,4 @@ Avg_Ride_Distance = AVERAGE(sales_data[Ride_Distance])
 
 ---
 
-*Project created & documented by **Utpal Jani** | OLA Power BI Business Intelligence Analytics Suite*
+*Project created & documented by **Nitesh Pal** | OLA Power BI Business Intelligence Analytics Suite*
